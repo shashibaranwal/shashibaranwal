@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashibaranwal
-- 👀 I’m a B.Tech student
+- 👀 I’m a first year B.Tech student
 - 🌱 I’m currently learning web development
 
 <!---
