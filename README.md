@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashibaranwal
-- 👀 I’m a first year Computer Science student.
-- 🌱 I’m currently practicing web development
+- 👀 I’m a second year Computer Science student.
+- 🌱 I’m currently practicing web development.
 
 <!---
 shashibaranwal/shashibaranwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
