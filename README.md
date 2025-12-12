@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Baranwal</h1>
 <h3 align="center">🎨 Designer | 💻 Developer | 🎬 Editor</h3>
-<p align="center">🚀 “Design. Develop. Deliver.” | I design, code, and occasionally negotiate with bugs — powered by caffeine ☕</p>
+<p align="center">🚀 I design, code, and occasionally negotiate with bugs — powered by caffeine ☕</p>
 
 ---
 
@@ -14,10 +14,10 @@
 
 - 🎓 I'm a **3rd-year B.Sc. CSIT student** at *National Infotech College, Birgunj, Nepal*  
 - 💼 Currently serving as:   
+  - **Secretary** of the *IT Club*, National Infotech College
   - **Video Editor Volunteer** at *GDG Kathmandu*  
-  - **Secretary** of the *IT Club*, National Infotech College  
 - 🧠 **Learning:** Full-Stack Development (React, Node.js, Express, MongoDB)  
-- 🎯 **Goal:** To become a professional **Full-Stack Developer** and contribute to impactful tech communities  
+- 🎯 **Goal:** To become a professional **Full-Stack Developer** and contribute to various communities through Technology.  
 - 🏆 **Achievements:**  
   - Winner of *IdeaX 2024 Hackathon* (Travel & Tourism category)    
   - Team Lead at *Hackathon Team Matrix*  
@@ -28,8 +28,8 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://x.com/shashibaranwal" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="x.com" height="30" width="40" style="filter: invert(1);" />
+  <a href="https://x.com/shashi_web" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="x.com" height="30" width="40"; " />
   </a>
   <a href="https://linkedin.com/in/shashi-baranwal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
