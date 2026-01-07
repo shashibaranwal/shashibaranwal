@@ -71,13 +71,13 @@
 
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=shashibaranwal&show_icons=true&layout=compact&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api?username=shashibaranwal&show_icons=true&layout=compact&cache_seconds=7200"
        alt="shashibaranwal" />
 </p>
 
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=shashibaranwal&show_icons=true&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashibaranwal&show_icons=true&cache_seconds=7200"
        alt="shashibaranwal" />
 </p>
 
