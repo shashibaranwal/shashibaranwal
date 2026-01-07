@@ -68,11 +68,24 @@
 ---
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashibaranwal&show_icons=true&locale=en&layout=compact" alt="shashibaranwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashibaranwal&show_icons=true&locale=en" alt="shashibaranwal" /></p>
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=shashibaranwal&show_icons=true&layout=compact&cache_seconds=7200"
+       alt="shashibaranwal" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashibaranwal&" alt="shashibaranwal" /></p>
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=shashibaranwal&show_icons=true&cache_seconds=7200"
+       alt="shashibaranwal" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://streak-stats.demolab.com/?user=shashibaranwal"
+       alt="shashibaranwal" />
+</p>
 
 ---
 
