@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Baranwal</h1>
-<h3 align="center">🎨 Designer | 💻 Developer | 🎬 Editor</h3>
-<p align="center">🚀 I design, code, and occasionally negotiate with bugs — powered by caffeine ☕</p>
+<h3 align="center">💻 Developer | 🎨 Designer | 🎬 Editor</h3>
+<p align="center">🚀 I code web experiences, edit videos and occasionally negotiate with bugs — all powered by caffeine ☕</p>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm a **3rd-year B.Sc. CSIT student** at *National Infotech College, Birgunj, Nepal*  
+- 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *National Infotech College, Birgunj, Nepal*  
 - 💼 Currently serving as:   
   - **Secretary** of the *IT Club*, National Infotech College
   - **Video Editor Volunteer** at *GDG Kathmandu*  
@@ -56,7 +56,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -77,7 +77,7 @@
 ---
 
 ### 🎯 Fun Fact
-> When I’m not coding, you’ll find me designing creative visuals or editing videos for community events!
+> When I’m not coding or editing videos, you’ll find me riding through the countryside or getting involved in community events!
 
 ---
 
