@@ -15,12 +15,12 @@
 - 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *National Infotech College, Birgunj, Nepal*  
 - 💼 Currently serving as:   
   - **Secretary** of the *IT Club*, National Infotech College
-  - **Video Editor Volunteer** at *GDG Kathmandu*  
+  - **Volunteer** at *GDG Kathmandu*  
 - 🧠 **Learning:** Full-Stack Development (React, Node.js, Express, MongoDB)  
-- 🎯 **Goal:** To become a professional **Full-Stack Developer** and contribute to various communities through Technology.  
+- 🎯 **Goal:** To become a professional **Full-Stack Developer**  
 - 🏆 **Achievements:**  
   - Winner of *IdeaX 2024 Hackathon* (Travel & Tourism category)    
-  - Team Lead at *Hackathon Team Matrix*  
+  - Hackathon Team Lead at *Team Matrix*  
   - Organizer of *UbuCon Asia 2025* (Kathmandu)  
 - 🎥 **YouTube Channel:** [AgniBits](https://www.youtube.com/@agnibits) – beginner-friendly dev tutorials  
 
