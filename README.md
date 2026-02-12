@@ -91,7 +91,7 @@
 ---
 
 ### 🎯 Fun Fact
-> When I’m not coding or editing videos, you’ll find me riding through the countryside or getting involved in community events!
+> When I’m not coding or designing, you’ll find me riding through the countryside or getting involved in community events!
 
 ---
 
