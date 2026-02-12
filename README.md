@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Baranwal</h1>
 <h3 align="center">💻 Developer | 🎨 Designer | 🎬 Editor</h3>
-<p align="center">🚀 I code web experiences, edit videos and occasionally negotiate with bugs — all powered by caffeine ☕</p>
+<p align="center">🚀 I code web experiences, design graphics/UI and occasionally negotiate with bugs — all powered by caffeine ☕</p>
 
 ---
 
@@ -62,7 +62,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premierepro" width="40" height="40"/> </a>
+<!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premierepro" width="40" height="40"/> </a> -->
 </p>
 
 ---
