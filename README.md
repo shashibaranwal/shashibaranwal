@@ -23,6 +23,7 @@
   - Hackathon Team Lead at *Team Matrix*  
   - Organizer of *UbuCon Asia 2025* (Kathmandu)  
 - 🎥 **YouTube Channel:** [AgniBits](https://www.youtube.com/@agnibits) – beginner-friendly dev tutorials  
+- 🌐 **Website:** [shashibaranwal.com.np](https://shashibaranwal.com.np)
 
 ---
 
