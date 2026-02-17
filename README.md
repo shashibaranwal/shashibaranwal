@@ -10,8 +10,7 @@
 
 ---
 
-### 🌟 About Me
-
+## 🌟 About Me
 - 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *National Infotech College, Birgunj, Nepal*  
 - 💼 Currently serving as:   
   - **Secretary** of the *IT Club*, National Infotech College
@@ -27,10 +26,8 @@
 
 ---
 
-### 🛠️ Technical Skills & Tools
-
-<p align="left">
-
+## 🛠️ Technical Skills & Tools
+<p align="left"
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
 
@@ -81,7 +78,7 @@
 
 ---
 
-### 🤝  Connect with Me</h2>
+## 🤝  Connect with Me</h2>
 
 <ul>
   <li>📧 <a href="mailto:shashibaranwal09@gmail.com">Email</a></li>
