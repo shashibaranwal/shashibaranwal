@@ -11,11 +11,12 @@
 ---
 
 ## 🌟 About Me
-- 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *National Infotech College, Birgunj, Nepal*  
-- 💼 Currently serving as:   
+- 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *Tribhuvan University, Nepal* 
+- 💼 Currently serving as:
+  - **Freelance Web Developer**
   - **Secretary** of the *IT Club*, National Infotech College
   - **Volunteer** at *GDG Kathmandu*  
-- 🧠 **Learning:** Full-Stack Development (React, Node.js, Express, MongoDB)  
+- 🧠 **Experience:** Full-Stack Development (React, Node.js, Express, MongoDB)  
 - 🎯 **Goal:** To become a professional **Full-Stack Developer**  
 - 🏆 **Achievements:**  
   - Winner of *IdeaX 2024 Hackathon* (Travel & Tourism category)    
