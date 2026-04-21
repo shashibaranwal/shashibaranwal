@@ -85,8 +85,8 @@
   <li>📧 <a href="mailto:shashibaranwal09@gmail.com">Email</a></li>
   <li>🌐 <a href="https://shashibaranwal.com.np" target="_blank">Website</a></li>
   <li>🧑‍💻 <a href="https://github.com/shashibaranwal" target="_blank">GitHub</a></li>
-  <li>💼 <a href="https://linkedin.com/in/shashi-baranwal" target="_blank">LinkedIn</a></li>
-  <li>🐦 <a href="https://x.com/shashi_web" target="_blank">Twitter</a></li>
+  <li>💼 <a href="https://linkedin.com/in/theshashibaranwal" target="_blank">LinkedIn</a></li>
+  <li>🐦 <a href="https://x.com/xshashibaranwal" target="_blank">Twitter</a></li>
 </ul>
 
 ---
