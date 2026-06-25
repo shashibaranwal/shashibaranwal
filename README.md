@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Baranwal</h1>
-<h3 align="center">💻 Developer | 🎬 Creative Editor</h3>
-<p align="center">🚀 I code web experiences, edit visuals and occasionally negotiate with bugs — all powered by caffeine ☕</p>
+<h3 align="center">💻 Developer</h3>
+<p align="center">🚀 I code web experiences and occasionally negotiate with bugs — all powered by caffeine ☕</p>
 
 ---
 
@@ -14,8 +14,6 @@
 - 🎓 I'm a **Pre-final year B.Sc. Computer Science & IT student** at *Tribhuvan University, Nepal* 
 - 💼 Currently serving as:
   - **Freelance Web Developer**
-  - **Secretary** of the *IT Club*, National Infotech College
-  - **Creative Editor** at *GDG Kathmandu*  
 - 🧠 **Experience:** Frontend Development (React.js, Next.js, Tailwind CSS)  
 - 🎯 **Goal:** To become a professional **Full-Stack Developer**  
 - 🏆 **Achievements:**  
@@ -45,19 +43,11 @@
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/ImageKit-06BEF8?style=for-the-badge&logo=imagekit&logoColor=white"/>
 
 <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
 
@@ -99,7 +89,7 @@
 ---
 
 ### 🎯 Fun Fact
-> When I’m not coding or editing, you’ll find me traveling through the countryside or getting involved in community events!
+> When I’m not coding, you’ll find me traveling through the countryside or getting involved in community events!
 
 ---
 
